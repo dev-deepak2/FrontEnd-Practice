@@ -1,0 +1,14 @@
+body{
+    background:linear-gradient(90deg, rgba(81,130,188,1) 0%, rgba(52,25,185,1) 100%);
+}
+
+.div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#add-item {
+    cursor: pointer;
+}
